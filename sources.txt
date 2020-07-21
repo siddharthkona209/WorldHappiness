@@ -1,0 +1,7 @@
+https://www.kaggle.com/unsdsn/world-happiness?select=2019.csv
+https://www.kaggle.com/theworldbank/world-bank-gdp-ranking
+https://www.kaggle.com/gsutters/economic-freedom
+https://www.kaggle.com/danevans/world-bank-wdi-212-health-systems
+https://www.kaggle.com/alenavorushilova/world-unemployment-rate-from-oecd
+https://www.kaggle.com/tanuprabhu/population-by-country-2020
+https://data.worldbank.org/indicator/SL.UEM.TOTL.ZS
